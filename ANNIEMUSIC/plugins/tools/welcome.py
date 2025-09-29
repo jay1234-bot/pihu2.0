@@ -145,7 +145,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 ➻ Iᴅ ✧ {user.id}
 ➻ Usᴇʀɴᴀᴍᴇ ✧ @{user.username}
 ➻ Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs ✧ {count}
-➻ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 [𝙈𝙍 𝘿𝙀𝙑𝙄𝙇](http://t.me/mrdevil12)
+➻ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 [ᴋʀɪꜱʜᴀɴ](https://t.me/censored_politicss)
 ▰▰▰▰▰▰▰▰▰▰▰▰▰**
 **❅─────✧❅✦❅✧─────❅**
 """,
