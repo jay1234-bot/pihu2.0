@@ -101,7 +101,7 @@ async def ctest(_, message):
 {N1} + {N2} = 💕
 ✧══════•❁♡︎❁•══════✧
 𝐍ᴇxᴛ 𝐂ᴏᴜᴘʟᴇs 𝐖ɪʟʟ 𝐁ᴇ 𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐎ɴ {tomorrow} 
-𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 [𝙈𝙍 𝘿𝙀𝙑𝙄𝙇](http://t.me/mrdevil12) !!**
+𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 [ᴋʀɪꜱʜᴀɴ](http://t.me/censored_politicss) !!**
 """
     
          await message.reply_photo(f"test_{cid}.png", caption=TXT)
